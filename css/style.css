@@ -246,6 +246,8 @@ font-family: 'Montserrat', sans-serif; */
 .donate-p-item img {
     padding-bottom: 30px;
     padding-top: 77px;
+    width: 61px;
+    height: 52px;
 }
 
 .donate-p-item h3 {
